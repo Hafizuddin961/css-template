@@ -1,0 +1,45 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "mazipan",
+      "name": "Irfan Maulana",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/7221389?v=4",
+      "profile": "https://mazipan.space",
+      "contributions": [
+        "ideas",
+        "code",
+        "review",
+        "maintenance"
+      ]
+    },
+    {
+      "login": "josprima",
+      "name": "Josprima Sihombing",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/29558962?v=4",
+      "profile": "https://github.com/josprima",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "hardi-dev",
+      "name": "Hardiansa",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/9802488?v=4",
+      "profile": "https://github.com/hardi-dev",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "login-page-css",
+  "projectOwner": "mazipan",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
